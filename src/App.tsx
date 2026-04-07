@@ -138,7 +138,7 @@ const Founder = () => {
     <section id="founder" className="py-24 gradient-bg">
       <div className="max-w-7xl mx-auto px-6">
         <div className="bg-white rounded-[40px] p-8 md:p-16 shadow-2xl border border-white flex flex-col md:flex-row items-center gap-12">
-<img src="./photo.jpeg" alt="Srinu Reddy" className="w-full max-w-[320px] aspect-[3/4] rounded-[32px] overflow-hidden shadow-2xl shrink-0 object-cover" />
+<img src="./photo.png" alt="Srinu Reddy" className="w-full max-w-[320px] aspect-[3/4] rounded-[32px] overflow-hidden shadow-2xl shrink-0 object-cover" />
           
           <div className="flex-1">
             <h2 className="text-4xl font-[Space_Grotesk] font-bold mb-2">Meet Srinu Reddy</h2>
@@ -317,7 +317,7 @@ const Enrollment = () => {
             <div className="flex flex-col gap-6">
               <div className="text-center">
                 <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-3">Scan to Pay</p>
-                <img src="./QR.jpeg" alt="UPI Payment QR Code" className="w-48 h-48 max-w-full mx-auto object-contain rounded-2xl border border-slate-200 shadow-inner" />
+                <img src="./QR.png" alt="UPI Payment QR Code" className="w-48 h-48 max-w-full mx-auto object-contain rounded-2xl border border-slate-200 shadow-inner" />
               </div>
               
               <a href="https://wa.me/918008491685?text=Hi%20Srinu,%20I've%20paid%20₹199%20for%20the%20workshop.%20Here%20is%20my%20screenshot." target="_blank" rel="noopener noreferrer" className="btn-primary flex items-center justify-center gap-3">
